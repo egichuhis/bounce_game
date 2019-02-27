@@ -1,6 +1,0 @@
-test_file = open('C:\\Users\\giche\\Documents\\dog.txt', 'w')
-test_file.write('This is my test file')
-test_file.close()
-test_file = open('C:\\Users\\giche\\Documents\\dog.txt')
-text = test_file.read()
-print(text)
